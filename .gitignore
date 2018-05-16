@@ -1,0 +1,17 @@
+# Virtualenv directory
+venv
+
+# Python
+devices/__pycache__/
+devices/migrations/
+
+# Python files
+*.pyc
+*.pyo
+
+# Settings
+.vscode
+
+# Database
+db.sqlite3
+.DS_store
